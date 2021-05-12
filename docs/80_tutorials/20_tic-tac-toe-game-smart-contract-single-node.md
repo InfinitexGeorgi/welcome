@@ -8,7 +8,7 @@ This tic-tac-toe tutorial guides you step by step to build a tic-tac-toe game wh
 
 
 [[info]]
-| EOSIO is a blockchain software platform developed by block.one. Smart contracts which run on the EOSIO platform should run on any blockchain which using the EOSIO platform. EOS is a digital token, though it also refers to the first public blockchain run on the EOSIO platform, EOS or the public mainnet. In this tutorial we will use the EOSIO platform to run a blockchain on your local machine. This runs only one producing node and is commonly called a single node testnet.
+| EOSIO is a blockchain software platform developed by block.one. Smart contracts which run on the EOSIO platform should run on any blockchain which use the EOSIO platform. EOS is a digital token, though it also refers to the first public blockchain run on the EOSIO platform, EOS or the public mainnet. In this tutorial we will use the EOSIO platform to run a blockchain on your local machine. This runs only one producing node and is commonly called a single node testnet.
 
 
 We explain the purpose of each step and why it is important.
